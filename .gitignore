@@ -1,0 +1,11 @@
+# Ignore tex files
+*.tex
+
+# Ignore STY files
+*.sty
+
+# Ignore pdfs
+*.pdf
+
+# Ignore data (too big)
+data/
